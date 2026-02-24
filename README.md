@@ -77,10 +77,3 @@ The Power BI dashboard includes:
 
 ## Author
 B. Chaitanya
-
-
-
-🎯 Tailor it for Data Analyst / Business Analyst roles
-
-
-Just tell me 👌
